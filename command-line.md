@@ -21,3 +21,15 @@
 #### How to create a branch in git repo
 
 - git checkout -b development
+
+#### How to make a clone of repo in your local pc
+
+- git clone (add here the HTTPS link from the repo of github)
+- then a folder of the default name same as your repo will be created in desktop
+- open in your vs code make some changes
+- track those changes through (git status)
+
+* git add (file name) Commandline.md or git add .
+
+- git commit -m 'adding comment here it will be shown'
+- git push origin master
